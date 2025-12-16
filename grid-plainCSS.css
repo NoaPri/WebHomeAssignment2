@@ -82,9 +82,9 @@ body { padding: 5px; }
     min-height: 80px;
 }
 
-/* Make the left long column same minimum height as other rows on mobile */
 .longleftcol {
     min-height: 80px;
 }
  }
+
 
